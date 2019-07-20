@@ -1,0 +1,7 @@
+C:\Users\alex_\source\repos\AleatoriosConsola\AleatoriosConsola\bin\Debug\AleatoriosConsola.exe.config
+C:\Users\alex_\source\repos\AleatoriosConsola\AleatoriosConsola\bin\Debug\AleatoriosConsola.exe
+C:\Users\alex_\source\repos\AleatoriosConsola\AleatoriosConsola\bin\Debug\AleatoriosConsola.pdb
+C:\Users\alex_\source\repos\AleatoriosConsola\AleatoriosConsola\obj\Debug\AleatoriosConsola.csprojAssemblyReference.cache
+C:\Users\alex_\source\repos\AleatoriosConsola\AleatoriosConsola\obj\Debug\AleatoriosConsola.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\AleatoriosConsola\AleatoriosConsola\obj\Debug\AleatoriosConsola.exe
+C:\Users\alex_\source\repos\AleatoriosConsola\AleatoriosConsola\obj\Debug\AleatoriosConsola.pdb
